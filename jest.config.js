@@ -4,3 +4,4 @@ module.exports = Object.assign(jestConfig, {
   testEnvironment: 'jest-environment-jsdom',
   testURL: 'http://localhost/',
 })
+/////////
